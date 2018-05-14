@@ -13,7 +13,7 @@ Once you have cloned the repo to your desired directory, cd into it:
 ```
 cd <DIRECTORY OF REPO>
 ```
-Download the model file from: http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/SCollins/retrained_graph.pb and copy into   the tf_files folder 
+Download the model file from: http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/SCollins/retrained_graph.pb and copy it into  the tf_files folder.  
 
 Then simply start the inference with the following command:
 
