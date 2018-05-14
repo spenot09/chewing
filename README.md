@@ -20,7 +20,7 @@ Then simply start the inference with the following command:
 python -m scripts.inference  --videos=<FULL FILEPATH TO FOLDER WITH VIDEOS>  --output=<FILEPATH TO OUTPUT FOLDER>
 ```
 
-And that's it. Eating rates should be outputted to the target folder
+And that's it. Eating rates should be outputted to the target folder.
 
 ## Output
 The output folder should contain a single text file per video containg the mouthful rate of that video and a separate "main.txt" should be created which contains all mouthful rates of all the videos inferred.  
