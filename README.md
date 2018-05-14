@@ -6,7 +6,7 @@ A Deep Learning inference repo built with tensorflow.
   2. Install OpenCV
   3. All videos to run inference on must be in a single folder
   4. Create an output folder where you want the output to go
-  5. Download model file from: http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/SCollins/retrained_graph.pb and place into 
+  5. Download model file from: http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/SCollins/retrained_graph.pb and copy into        the tf_files folder 
   
 ## Usage
 Once you have cloned the repo to your desired directory, cd into it:
